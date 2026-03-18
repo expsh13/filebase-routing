@@ -1,0 +1,14 @@
+{
+  "name": "filebase-routing",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  },
+  "dependencies": {
+    "@types/node": "^25.5.0",
+    "tinyglobby": "^0.2.15",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
